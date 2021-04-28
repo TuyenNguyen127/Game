@@ -1,4 +1,8 @@
 # Game
+# VideoDEMO
+
+https://drive.google.com/file/d/1WYVlpU2-x7yh_qqGsr_HRvDElS2vtuTS/view?usp=sharing
+
 # Technologies
 
 Project sử dụng IDE và các thư viện sau:
@@ -46,7 +50,7 @@ Project sử dụng IDE và các thư viện sau:
 - Gồm hàm tính toán và khởi tạo vector 2D.
 - *RigidBody* : Xác định vị trí , vận tốc qua lực tác động vào vật 1 cách ổn định.
 ### Menu:
-Menu của game gồm các tính năng: 
+#### Menu của game gồm các tính năng: 
 - *Play* và *Replay*: chơi và bắt đầu lại trò chơi.
 - *Exit* : thoát game.
 - *?* : cốt truyện và cách chơi game ( RenderH1, RenderH2 ).
