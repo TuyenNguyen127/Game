@@ -5,9 +5,10 @@ https://drive.google.com/file/d/1WYVlpU2-x7yh_qqGsr_HRvDElS2vtuTS/view?usp=shari
 
 # DownLoad and get play
 
+Ấn vào "SortEngine.zip -> View raw" 
+
 ## Mở file .exe chiến luôn :
 
-- Ấn vào "SortEngine.zip -> View raw" 
 - Giải nén mở file lên rồi vào "bin -> Release -> SortEngine.exe "
 
 ## Hoặc mở bằng CodeBlocks : 
