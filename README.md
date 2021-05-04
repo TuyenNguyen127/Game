@@ -3,6 +3,18 @@
 
 https://drive.google.com/file/d/1WYVlpU2-x7yh_qqGsr_HRvDElS2vtuTS/view?usp=sharing
 
+# DownLoad and get play
+
+## Mở file .exe chiến luôn :
+
+- Ấn vào "SortEngine.zip -> View raw" 
+- Giải nén mở file lên rồi vào "bin -> Release -> SortEngine.exe "
+
+## Hoặc mở bằng CodeBlocks : 
+
+- mở file rồi nhấn vào SortEngine.cbp ( nếu không thấy thì tìm file loại "project file" )
+- Để chế độ Release rồi ch code bình thường 
+
 # Technologies
 
 Project sử dụng IDE và các thư viện sau:
