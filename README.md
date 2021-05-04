@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1WYVlpU2-x7yh_qqGsr_HRvDElS2vtuTS/view?usp=shari
 ## Hoặc mở bằng CodeBlocks : 
 
 - mở file rồi nhấn vào SortEngine.cbp ( nếu không thấy thì tìm file loại "project file" )
-- Để chế độ Release rồi ch code bình thường 
+- Để chế độ Release rồi chạy code bình thường 
 
 # Technologies
 
