@@ -38,7 +38,6 @@ Project sử dụng IDE và các thư viện sau:
 - Nút *Play* và *Replay* để chơi và làm mới *Engine*.
 - Nút *X* để thoát khỏi phần *?* .
 - Điểm ở đây là thời gian.
-- Tốc độ di chuyển của các vật không thay đổi *RẤT DỄ CHƠI* trừ khi bạn đen.
 - Thao tác ở *Menu* chỉ bao gồm thao tác Nhập giữ liệu từ chuột .
 - Có thể thay đổi số lượng *Prevent* bằng cách vào *Engine.h* và thay đổi *sl*
 ## Các hàm của trò chơi:
